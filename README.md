@@ -11,7 +11,7 @@ This project is a complete end-to-end data analytics and business intelligence s
 The dashboard includes:
 
 - ✅ Total Revenue, Orders, Customers, Avg Order Value (KPIs)
-- 📈 Monthly Sales Trend
+- 📈 Yearly Sales Trend
 - 📦 Top 10 Product Categories by Revenue
 - 💳 Payment Type Distribution
 - ⭐ Review Score Analysis
