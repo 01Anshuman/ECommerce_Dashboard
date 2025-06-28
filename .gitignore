@@ -1,0 +1,9 @@
+# Ignore raw data files
+*.csv
+*.zip
+*.xlsx
+
+# Ignore temporary files
+*.tmp
+*.bak
+~$*
