@@ -6,7 +6,7 @@ This project is a complete end-to-end data analytics and business intelligence s
 
 ## 📊 Dashboard Overview
 
-![Dashboard Screenshot](dashboard_screenshot.png) <!-- upload your dashboard image in the repo -->
+![Dashboard Screenshot](screenshots/main.png) <!-- upload your dashboard image in the repo -->
 
 The dashboard includes:
 
@@ -32,7 +32,7 @@ Contains 100k+ orders, customer info, product details, payments, reviews, and de
 - **Power BI** – Visualizations, Data Modeling, DAX
 - **Power Query Editor** – Data Cleaning & Transformation
 - **DAX** – Custom measures & KPIs
-- (Optional) **Python (Pandas)** – For initial preprocessing (if used)
+- **Python (Pandas)** – For initial preprocessing 
 
 ---
 
@@ -46,7 +46,7 @@ Contains 100k+ orders, customer info, product details, payments, reviews, and de
 
 ---
 
-## 🧠 Learnings
+## Learnings
 
 - Creating and managing relationships in Power BI
 - Designing clean and interactive dashboards
@@ -55,7 +55,7 @@ Contains 100k+ orders, customer info, product details, payments, reviews, and de
 
 ---
 
-## 📸 Preview
+## Preview
 
 | Dashboard | Sales Trend | Top Categories |
 |----------|-------------|----------------|
@@ -63,10 +63,4 @@ Contains 100k+ orders, customer info, product details, payments, reviews, and de
 
 ---
 
-## 🧾 Author
-
-**Anshuman Mishra**  
-Data Analyst | Python + Power BI Enthusiast  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anshuman-mishra-profile-link)  
-📁 Explore more: [GrowWithAnshuman](https://www.youtube.com/@GrowWithAnshuman)
 
