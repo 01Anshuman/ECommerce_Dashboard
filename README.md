@@ -59,7 +59,7 @@ Contains 100k+ orders, customer info, product details, payments, reviews, and de
 
 | Dashboard | Sales Trend | Top Categories |
 |----------|-------------|----------------|
-| ![main](screenshots/dashboard_main.png) | ![trend](screenshots/sales_trend.png) | ![categories](screenshots/top_categories.png) |
+| ![main](screenshots/main.png) | ![trend](screenshots/sales_trend.png) | ![categories](screenshots/top_categories.png) |
 
 ---
 
